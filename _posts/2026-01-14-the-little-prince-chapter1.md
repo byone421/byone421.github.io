@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "The Little Prince Chapter 1"
-subtitle:   "小王子双语版第一章"
+subtitle:   "小王子双语版第1章"
 date:       2026-01-14 12:00:00
 author:     "一碗面"
 catalog: true
