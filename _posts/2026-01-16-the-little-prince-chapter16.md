@@ -11,20 +11,20 @@ tags:
   - 小王子
 ---
 # English
-> <font  size=4>the narrator discusses the Earth's lamplighters</font>
+> the narrator discusses the Earth's lamplighters
 >
 
-<font  size=4>&emsp;&emsp;So then the seventh planet was the Earth.</font>
+&emsp;&emsp;So then the seventh planet was the Earth.
 
-<font  size=4>&emsp;&emsp;The Earth is not just an ordinary planet! One can count, there 111 kings (not forgetting, to be sure, the Negro kings among them), 7000 geographers, 900,000 businessmen, 7,500,000 tipplers, 311,000,000 conceited men-- that is to say, about 2,000,000,000 grown-ups.</font>
+&emsp;&emsp;The Earth is not just an ordinary planet! One can count, there 111 kings (not forgetting, to be sure, the Negro kings among them), 7000 geographers, 900,000 businessmen, 7,500,000 tipplers, 311,000,000 conceited men-- that is to say, about 2,000,000,000 grown-ups.
 
-<font  size=4>&emsp;&emsp;To give you an idea of the size of the Earth, I will tell you that before the invention of electricity it was necessary to maintain, over the whole of the six continents, a veritable army of 462,511 lamplighters for the street lamps.</font>
+&emsp;&emsp;To give you an idea of the size of the Earth, I will tell you that before the invention of electricity it was necessary to maintain, over the whole of the six continents, a veritable army of 462,511 lamplighters for the street lamps.
 
-<font  size=4>&emsp;&emsp;Seen from a slight distance, that would make a splendid spectacle. The movements of this army would be regulated like those of the ballet in the opera. First would come the turn of the lamplighters of New Zealand and Australia. Having set their lamps alight, these would go off to sleep. Next, the lamplighters of China and Siberia would enter for their steps in the dance, and then they too would be waved back into the wings. After that would come the turn of the lamplighters of Russia and the Indies; then those of Africa and Europe, then those of South America; then those of South America; then those of North America. And never would they make a mistake in the order of their entry upon the stage. It would be magnificent.</font>
+&emsp;&emsp;Seen from a slight distance, that would make a splendid spectacle. The movements of this army would be regulated like those of the ballet in the opera. First would come the turn of the lamplighters of New Zealand and Australia. Having set their lamps alight, these would go off to sleep. Next, the lamplighters of China and Siberia would enter for their steps in the dance, and then they too would be waved back into the wings. After that would come the turn of the lamplighters of Russia and the Indies; then those of Africa and Europe, then those of South America; then those of South America; then those of North America. And never would they make a mistake in the order of their entry upon the stage. It would be magnificent.
 
-<font  size=4>&emsp;&emsp;Only the man who was in charge of the single lamp at the North Pole, and his colleague who was responsible for the single lamp at the South Pole-- only these two would live free from toil and care: they would be busy twice a year.</font>
+&emsp;&emsp;Only the man who was in charge of the single lamp at the North Pole, and his colleague who was responsible for the single lamp at the South Pole-- only these two would live free from toil and care: they would be busy twice a year.
 
-# <font style="color:rgb(55, 55, 55);">中文</font>
+# 中文
 >  叙述者谈到了地球上的点灯人
  
 
@@ -38,5 +38,5 @@ tags:
 
 &emsp;&emsp;唯独北极那盏孤灯的点灯人，和他负责南极唯一路灯的同事——只有这两位过得最清闲自在：他们一年只需忙活两次。
 
-**如有侵权， 请联系作者删除，英文摘录自《小王子》**
+**如有侵权， 请联系作者删除，一部分内容摘录自《小王子》**
 

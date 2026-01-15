@@ -12,75 +12,75 @@ tags:
 ---
 
 # English
-> <font  size=4>the little prince makes the acquaintance of the snake</font>
+> the little prince makes the acquaintance of the snake
 
-<font  size=4>&emsp;&emsp;When one wishes to play the wit, he sometimes wanders a little from the truth. I have not been altogether honest in what I have told you about the lamplighters. And I realize that I run the risk of giving a false idea of our planet to those who do not know it. Men occupy a very small place upon the Earth. If the two billion inhabitants who people its surface were all to stand upright and somewhat crowded together, as they do for some big public assembly, they could easily be put into one public square twenty miles long and twenty miles wide. All humanity could be piled up on a small Pacific islet.</font>
+&emsp;&emsp;When one wishes to play the wit, he sometimes wanders a little from the truth. I have not been altogether honest in what I have told you about the lamplighters. And I realize that I run the risk of giving a false idea of our planet to those who do not know it. Men occupy a very small place upon the Earth. If the two billion inhabitants who people its surface were all to stand upright and somewhat crowded together, as they do for some big public assembly, they could easily be put into one public square twenty miles long and twenty miles wide. All humanity could be piled up on a small Pacific islet.
 
-<font  size=4>&emsp;&emsp;The grown-ups, to be sure, will not believe you when you tell them that. They imagine that they fill a great deal of space. They fancy themselves as important as the baobabs. You should advise them, then, to make their own calculations. They adore figures, and that will please them. But do not waste your time on this extra task. It is unnecessary. You have, I know, confidence in me.</font>
+&emsp;&emsp;The grown-ups, to be sure, will not believe you when you tell them that. They imagine that they fill a great deal of space. They fancy themselves as important as the baobabs. You should advise them, then, to make their own calculations. They adore figures, and that will please them. But do not waste your time on this extra task. It is unnecessary. You have, I know, confidence in me.
 
 <!-- 这是一张图片，ocr 内容为： -->
 ![](/img/in-post/little-prince/chapter17_1.png)
 
-<font  size=4>&emsp;&emsp;When the little prince arrived on the Earth, he was very much surprised not to see any people. He was beginning to be afraid he had come to the wrong planet, when a coil of gold, the color of the moonlight, flashed across the sand.</font>
+&emsp;&emsp;When the little prince arrived on the Earth, he was very much surprised not to see any people. He was beginning to be afraid he had come to the wrong planet, when a coil of gold, the color of the moonlight, flashed across the sand.
 
 <!-- 这是一张图片，ocr 内容为： -->
 ![](/img/in-post/little-prince/chapter17_2.png)
 
-<font  size=4>&emsp;&emsp;"Good evening," said the little prince courteously.</font>
+&emsp;&emsp;"Good evening," said the little prince courteously.
 
-<font  size=4>&emsp;&emsp;"Good evening," said the snake.</font>
+&emsp;&emsp;"Good evening," said the snake.
 
-<font  size=4>&emsp;&emsp;"What planet is this on which I have come down?" asked the little prince.</font>
+&emsp;&emsp;"What planet is this on which I have come down?" asked the little prince.
 
-<font  size=4>&emsp;&emsp;"This is the Earth; this is Africa," the snake answered.</font>
+&emsp;&emsp;"This is the Earth; this is Africa," the snake answered.
 
-<font  size=4>&emsp;&emsp;"Ah! Then there are no people on the Earth?"</font>
+&emsp;&emsp;"Ah! Then there are no people on the Earth?"
 
-<font  size=4>&emsp;&emsp;"This is the desert. There are no people in the desert. The Earth is large," said the snake.</font>
+&emsp;&emsp;"This is the desert. There are no people in the desert. The Earth is large," said the snake.
 
-<font  size=4>&emsp;&emsp;The little prince sat down on a stone, and raised his eyes toward the sky.</font>
+&emsp;&emsp;The little prince sat down on a stone, and raised his eyes toward the sky.
 
-<font  size=4>&emsp;&emsp;"I wonder," he said, "whether the stars are set alight in heaven so that one day each one of us may find his own again… Look at my planet. It is right there above us. But how far away it is!"</font>
+&emsp;&emsp;"I wonder," he said, "whether the stars are set alight in heaven so that one day each one of us may find his own again… Look at my planet. It is right there above us. But how far away it is!"
 
-<font  size=4>&emsp;&emsp;"It is beautiful," the snake said. "What has brought you here?"</font>
+&emsp;&emsp;"It is beautiful," the snake said. "What has brought you here?"
 
-<font  size=4>&emsp;&emsp;"I have been having some trouble with a flower," said the little prince.</font>
+&emsp;&emsp;"I have been having some trouble with a flower," said the little prince.
 
-<font  size=4>&emsp;&emsp;>"Ah!" said the snake.</font>
+&emsp;&emsp;"Ah!" said the snake.
 
-<font  size=4>&emsp;&emsp;And they were both silent.</font>
+&emsp;&emsp;And they were both silent.
 
-<font  size=4>&emsp;&emsp;"Where are the men?" the little prince at last took up the conversation again. "It is a little lonely in the desert…"</font>
+&emsp;&emsp;"Where are the men?" the little prince at last took up the conversation again. "It is a little lonely in the desert…"
 
-<font  size=4>&emsp;&emsp;"It is also lonely among men," the snake said.</font>
+&emsp;&emsp;"It is also lonely among men," the snake said.
 
-<font  size=4>&emsp;&emsp;The little prince gazed at him for a long time.</font>
+&emsp;&emsp;The little prince gazed at him for a long time.
 
-<font  size=4>&emsp;&emsp;"You are a funny animal," he said at last. "You are no thicker than a finger…"</font>
+&emsp;&emsp;"You are a funny animal," he said at last. "You are no thicker than a finger…"
 
-<font  size=4>&emsp;&emsp;"But I am more powerful than the finger of a king," said the snake.</font>
+&emsp;&emsp;"But I am more powerful than the finger of a king," said the snake.
 
-<font  size=4>&emsp;&emsp;The little prince smiled.</font>
+&emsp;&emsp;The little prince smiled.
 
-<font  size=4>&emsp;&emsp;"You are not very powerful. You haven't even any feet. You cannot even travel…"</font>
+&emsp;&emsp;"You are not very powerful. You haven't even any feet. You cannot even travel…"
 
-<font  size=4>&emsp;&emsp;"I can carry you farther than any ship could take you," said the snake.</font>
+&emsp;&emsp;"I can carry you farther than any ship could take you," said the snake.
 
-<font  size=4>&emsp;&emsp;He twined himself around the little prince's ankle, like a golden bracelet.</font>
+&emsp;&emsp;He twined himself around the little prince's ankle, like a golden bracelet.
 
-<font  size=4>&emsp;&emsp;"Whomever I touch, I send back to the earth from whence he came," the snake spoke again. "But you are innocent and true, and you come from a star…"</font>
+&emsp;&emsp;"Whomever I touch, I send back to the earth from whence he came," the snake spoke again. "But you are innocent and true, and you come from a star…"
 
-<font  size=4>&emsp;&emsp;The little prince made no reply.</font>
+&emsp;&emsp;The little prince made no reply.
 
-<font  size=4>&emsp;&emsp;"You move me to pity-- you are so weak on this Earth made of granite," the snake said. "I can help you, some day, if you grow too homesick for your own planet. I can--"</font>
+&emsp;&emsp;"You move me to pity-- you are so weak on this Earth made of granite," the snake said. "I can help you, some day, if you grow too homesick for your own planet. I can--"
 
-<font  size=4>&emsp;&emsp;"Oh! I understand you very well," said the little prince. "But why do you always speak in riddles?"</font>
+&emsp;&emsp;"Oh! I understand you very well," said the little prince. "But why do you always speak in riddles?"
 
-<font  size=4>&emsp;&emsp;"I solve them all," said the snake.</font>
+&emsp;&emsp;"I solve them all," said the snake.
 
-<font  size=4>&emsp;&emsp;And they were both silent.</font>
+&emsp;&emsp;And they were both silent.
 
-# <font style="color:rgb(55, 55, 55);">中文</font>
+# 中文
 &emsp;&emsp;当一个人想要耍点小聪明时，有时难免会撒点小谎。在给你们讲点灯人的时候，我并不是完全诚实的。我也意识到，我冒着一种风险：会让那些不了解我们星球的人对它产生错误的印象。
 
 &emsp;&emsp;人类在地球上占据的空间其实非常小。如果居住在地球表面的二十亿居民都站起来，像参加大型集会那样紧凑地聚在一起，完全可以轻而易举地挤进一个二十英里长、二十英里宽的正方形广场。全人类甚至可以堆叠在太平洋中一个微型小岛上。
@@ -147,6 +147,8 @@ tags:
 
 &emsp;&emsp;于是，他们又陷入了沉默。
 
+
+**如有侵权， 请联系作者删除，一部分内容摘录自《小王子》**
 
 
 

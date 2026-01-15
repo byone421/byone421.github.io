@@ -11,26 +11,26 @@ tags:
   - 小王子
 ---
 # English
->  the little prince goes looking for men and meets a flower</font>
+>  the little prince goes looking for men and meets a flower
 
 
 ![](/img/in-post/little-prince/chapter18_1.png)
 
-&emsp;&emsp;The little prince crossed the desert and met with only one flower. It was a flower with three petals, a flower of no account at all.</font>
+&emsp;&emsp;The little prince crossed the desert and met with only one flower. It was a flower with three petals, a flower of no account at all.
 
-&emsp;&emsp;"Good morning," said the little prince.</font>
+&emsp;&emsp;"Good morning," said the little prince.
 
-&emsp;&emsp;"Good morning," said the flower.</font>
+&emsp;&emsp;"Good morning," said the flower.
 
-&emsp;&emsp;"Where are the men?" the little prince asked, politely.</font>
+&emsp;&emsp;"Where are the men?" the little prince asked, politely.
 
-&emsp;&emsp;The flower had once seen a caravan passing.</font>
+&emsp;&emsp;The flower had once seen a caravan passing.
 
-&emsp;&emsp;"Men?" she echoed. "I think there are six or seven of them in existence. I saw them, several years ago. But one never knows where to find them. The wind blows them away. They have no roots, and that makes their life very difficult."</font>
+&emsp;&emsp;"Men?" she echoed. "I think there are six or seven of them in existence. I saw them, several years ago. But one never knows where to find them. The wind blows them away. They have no roots, and that makes their life very difficult."
 
-&emsp;&emsp;"Goodbye," said the little prince.</font>
+&emsp;&emsp;"Goodbye," said the little prince.
 
-&emsp;&emsp;"Goodbye," said the flower.</font>
+&emsp;&emsp;"Goodbye," said the flower.
 
 
 # 中文
@@ -55,3 +55,5 @@ tags:
 &emsp;&emsp;“再见，”小王子说。
 
 &emsp;&emsp;“再见，”花儿说。
+
+**如有侵权， 请联系作者删除，一部分内容摘录自《小王子》**
