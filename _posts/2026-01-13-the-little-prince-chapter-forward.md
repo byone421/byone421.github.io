@@ -34,3 +34,5 @@ TO LEON WERTH WHEN HE WAS A LITTLE BOY
 
 献给还是个小孩子的莱昂·维尔特
 
+
+**如有侵权， 请联系作者删除，英文摘录自《小王子》**
