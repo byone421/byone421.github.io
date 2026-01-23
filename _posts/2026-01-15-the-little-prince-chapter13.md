@@ -18,7 +18,7 @@ tags:
 
 &emsp;&emsp;The fourth planet belonged to a businessman. This man was so much occupied that he did not even raise his head at the little prince's arrival.
 
-![](/img/in-post/little-prince/chapter11_1.png)
+![](/img/in-post/little-prince/chapter13_1.png)
 
 &emsp;&emsp;"Good morning," the little prince said to him. "Your cigarette has gone out."
 
