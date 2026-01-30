@@ -6,4 +6,6 @@ Welcome to my blog! Here, I share my knowledge, experience, and projects.
 
 **CSDN:**  https://blog.csdn.net/qq_33043795
 
+**xitu:**  https://juejin.cn/user/3632442146558520
+
 **Email:**  zenonewrong@gmail.com
