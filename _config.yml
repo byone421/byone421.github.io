@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "没有一蹴而就的天才，只有不断点亮天赋的勤者"
+sidebar-about-description: "也欢迎大家关注我的公众号：说是爪哇"
 sidebar-avatar: /img/byone421.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags

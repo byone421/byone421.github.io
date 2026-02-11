@@ -1,4 +1,4 @@
-Welcome to my blog! Here, I share my knowledge, experience, and projects.
+Welcome to my blog! I'd like to share something useful and interesting here
 
 **Blog:** https://byone421.github.io
 
